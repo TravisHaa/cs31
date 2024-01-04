@@ -12,7 +12,7 @@
 #include <cctype>
 using namespace std;
 
-
+//b
 #include <iostream>
   #include <sstream>
   #include <streambuf>
